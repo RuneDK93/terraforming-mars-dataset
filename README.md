@@ -6,9 +6,13 @@ All games are in 3-player basegame format with corporate era included. The games
 Data is included as a python dictionary file saved as both a pickle and JSON file. 
 
 My system had the current versions when saving the data.
+
 python 3.8.2
+
 numpy 1.24.4
+
 pandas 1.3.3
+
 matplotlib 3.3.2
 
 # Overview of data 
