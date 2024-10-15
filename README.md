@@ -19,4 +19,4 @@ matplotlib 3.3.2
 An overview of the data can be found in this post:
 https://www.reddit.com/r/TerraformingMarsGame/comments/1frbj1b/analysis_of_1500_3p_arena_games_base/
 
-A full card win rates list is included in the repository as "cards.txt". The final corporation win rates for the Arena Season 18 Champion RoyalRook are also available as "RoyalRook_corps.txt".
+A full card win rate list is included in the repository as "cards.txt". The final corporation win rates for the Arena Season 18 Champion RoyalRook are also available as "RoyalRook_corps.txt".
