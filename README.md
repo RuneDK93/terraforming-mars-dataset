@@ -1,8 +1,16 @@
 # terraforming-mars-dataset
-A dataset of games from the board game Terraforming Mars.
+A dataset of 1,556 games from the board game Terraforming Mars.
 
-All games are in 3-player basegame format with corporate era included. The games are from the top 25 players in the world on Board Game Arena (BGA) for 3-player setting.
+All games are in 3-player basegame format with corporate era included. The games were played by the top 25 players in the world on Board Game Arena (BGA) for 3-player setting in season 18.
 
+# Prelude update
+
+The /prelude directory now contains stats from the current season 19 on BGA. These are 3-player games in basegame + prelude format. 
+
+The current stats are computed based 1,234 games played by the current top 25 players.
+
+
+# Technical details
 Data is included as a python dictionary file saved as both a pickle and JSON file. 
 
 My system had the current versions when saving the data.
