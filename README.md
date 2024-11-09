@@ -7,7 +7,7 @@ All games are in 3-player basegame format with corporate era included. The games
 
 The /prelude directory now contains stats from the current season 19 on BGA. These are 3-player games in basegame + prelude format. 
 
-The current stats are computed based 1,234 games played by the current top 25 players.
+The current stats are computed based 1,616 games played by the current top 25 players.
 
 
 # Technical details
